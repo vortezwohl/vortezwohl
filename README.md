@@ -2,7 +2,7 @@
 - 👀 I’m interested in AGI and LLMs.
 - 🌱 I’m currently work on AI agent system.
 - 💞️ I’m looking to collaborate. 
-- 📫 How to reach me: vortez.wohl@gmail.com
+- 📫 How to reach me: vortez.wohl@gmail.com 
 
 <!--
 **vortezwohl/vortezwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
