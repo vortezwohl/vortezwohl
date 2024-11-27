@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vortezwohl, a student from Fujian University of Technology.
+- 👋 Hi, I’m @vortezwohl, an undergraduate student from Fujian University of Technology.
 - 👀 I’m interested in AGI and LLMs.
 - 🌱 I’m currently work on AI agent system.
 - 💞️ I’m looking to collaborate. 
