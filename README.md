@@ -2,8 +2,8 @@
 - 🤖 I’m interested in AGI and LLMs.
 - 👨‍💻 I’m currently working on AI agent system.
 - 👀 I’m looking to collaborate on [CEO agentic AI framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework).
-- 🧠 Currently learning RL, check my blog for notes to share [vortezwohl's blog](vortezwohl.github.io)
-- 📫 How to reach me: vortez.wohl@gmail.com 
+- 🧠 Currently learning RL, visit my blog for notes to share [vortezwohl's blog]([vortezwohl.github.io](https://vortezwohl.github.io/)).
+- 📫 How to reach me: vortez.wohl@gmail.com .
 
 <!--
 **vortezwohl/vortezwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
