@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vortezwohl, an undergraduate student from Fujian University of Technology.
 - 🤖 I’m interested in AGI and LLMs.
 - 👨‍💻 I’m currently working on AI agent system.
-- 👀 I’m looking to collaborate on [CEO agentic AI framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework).
+- 👀 I’m looking to collaborate on [CEO-Autonomous-Agent-Framework](https://github.com/vortezwohl/CEO-Autonomous-Agent-Framework).
 - 🧠 Currently learning RL, visit my blog for notes to share [vortezwohl's blog](https://vortezwohl.github.io).
 - 📫 How to reach me: vortez.wohl@gmail.com .
 
