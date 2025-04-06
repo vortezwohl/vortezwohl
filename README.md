@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vortezwohl, an undergraduate student from Fujian University of Technology.
 - 🤖 I’m interested in AGI and LLMs.
-- 👨‍💻 I’m currently working on AI agent system.
+- 👨‍💻 I’m currently working on AI and NLP. [ORCID](https://orcid.org/0009-0003-2474-2092).
 - 👀 I’m looking to collaborate on [Project Autono](https://github.com/vortezwohl/Autono).
 - 🧠 Currently learning RL, visit my blog for notes to share [vortezwohl's blog](https://vortezwohl.github.io).
 - 📫 How to reach me: vortez.wohl@gmail.com .
