@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vortezwohl, an NLP/MachineLearning researcher from MoboReels.
+- 👋 Hi, I’m @vortezwohl, an NLP/MachineLearning researcher from MoboReader.
 - 🤖 I’m interested in NLP/NLU and LLMs.
 - 👨‍💻 I’m currently working on LLM and NLU. [ORCID](https://orcid.org/0009-0003-2474-2092). [arXiv](https://arxiv.org/a/wu_z_11.html).
 - 👀 I’m looking to collaborate on [Project Autono](https://github.com/vortezwohl/Autono) and [Project DeepLoTX](https://github.com/vortezwohl/DeepLoTX).
