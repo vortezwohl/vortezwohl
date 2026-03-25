@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vortezwohl, an NLP/LLM developer from MoboReader.
+- 👋 你好, Suis @vortezwohl, an NLP/LLM developer from MoboReader.
 - 👨‍💻 [ORCID](https://orcid.org/0009-0003-2474-2092). [arXiv](https://arxiv.org/a/wu_z_11.html).
 - 🧠 [vortezwohl's blog](https://vortezwohl.github.io).
 - 📫 Reach me: vortez.wohl@gmail.com .
